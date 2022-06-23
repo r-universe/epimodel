@@ -8,39 +8,3 @@
 	url = https://github.com/epimodel/epimodel
 	shallow = true
 	registered = true
-[submodule "ergm"]
-	path = ergm
-	url = https://github.com/statnet/ergm
-	shallow = true
-	branch = master
-	registered = false
-[submodule "ergm.count"]
-	path = ergm.count
-	url = https://github.com/statnet/ergm.count
-	shallow = true
-	branch = master
-	registered = false
-[submodule "network"]
-	path = network
-	url = https://github.com/statnet/network
-	shallow = true
-	branch = master
-	registered = false
-[submodule "networkDynamic"]
-	path = networkDynamic
-	url = https://github.com/statnet/networkDynamic
-	shallow = true
-	branch = master
-	registered = false
-[submodule "statnet.common"]
-	path = statnet.common
-	url = https://github.com/statnet/statnet.common
-	shallow = true
-	branch = master
-	registered = false
-[submodule "tergm"]
-	path = tergm
-	url = https://github.com/statnet/tergm
-	shallow = true
-	branch = master
-	registered = false
