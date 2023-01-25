@@ -2,5 +2,9 @@
   {
     "package": "EpiModel",
     "oncran": true
+  },
+  {
+    "package": "networkLite",
+    "oncran": true
   }
 ]

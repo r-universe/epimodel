@@ -8,3 +8,8 @@
 	url = https://github.com/epimodel/epimodel
 	shallow = true
 	registered = true
+[submodule "networkLite"]
+	path = networkLite
+	url = https://github.com/epimodel/networklite
+	shallow = true
+	registered = true
