@@ -13,3 +13,62 @@
 	url = https://github.com/epimodel/networklite
 	shallow = true
 	registered = true
+[submodule "egor"]
+	path = egor
+	url = https://github.com/tilltnet/egor
+	shallow = true
+	registered = false
+[submodule "ergm"]
+	path = ergm
+	url = https://github.com/statnet/ergm
+	shallow = true
+	branch = master
+	registered = false
+[submodule "ergm.count"]
+	path = ergm.count
+	url = https://github.com/statnet/ergm.count
+	shallow = true
+	branch = master
+	registered = false
+[submodule "ergm.ego"]
+	path = ergm.ego
+	url = https://github.com/statnet/ergm.ego
+	shallow = true
+	branch = master
+	registered = false
+[submodule "ergm.multi"]
+	path = ergm.multi
+	url = https://github.com/statnet/ergm.multi
+	shallow = true
+	branch = master
+	registered = false
+[submodule "network"]
+	path = network
+	url = https://github.com/statnet/network
+	shallow = true
+	branch = master
+	registered = false
+[submodule "networkDynamic"]
+	path = networkDynamic
+	url = https://github.com/statnet/networkDynamic
+	shallow = true
+	branch = master
+	registered = false
+[submodule "rle"]
+	path = rle
+	url = https://github.com/statnet/rle
+	shallow = true
+	branch = master
+	registered = false
+[submodule "statnet.common"]
+	path = statnet.common
+	url = https://github.com/statnet/statnet.common
+	shallow = true
+	branch = master
+	registered = false
+[submodule "tergm"]
+	path = tergm
+	url = https://github.com/statnet/tergm
+	shallow = true
+	branch = master
+	registered = false
