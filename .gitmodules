@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "EpiModel"]
 	path = EpiModel
 	url = https://github.com/epimodel/epimodel
-	shallow = true
-	registered = true
 [submodule "networkLite"]
 	path = networkLite
 	url = https://github.com/epimodel/networklite
-	shallow = true
-	registered = true
